@@ -63,7 +63,7 @@ Open Adafruit.IO and sign in using your account
 3.Add the feed name in the FEEDS Category ‘feed name’ of the Arduino code.
 
 
-<img src="https://github.com/prekshaa8/tempsensorUsingAdafruit/blob/master/arduinoFEED.png" height="240" width="480">
+<img src="https://github.com/prekshaa8/tempsensorUsingAdafruit/blob/master/arduinoFEED.JPG" height="75" width="300">
 
 4.Compile and Upload the code.
 5.Before that make sure that WiFi is turned on.

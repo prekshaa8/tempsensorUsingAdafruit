@@ -26,7 +26,7 @@ Steps for adding ESP8266 board and library to Arduino IDE are given below.
 
 2.Go to File menu and select Preferences.
 
-3. Copy the below-mentioned package and paste in Additional Boards Manager URL. 
+3.Copy the below-mentioned package and paste in Additional Boards Manager URL. 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 4.Go to Tools and select Boards Manager.

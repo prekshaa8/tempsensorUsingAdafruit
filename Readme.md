@@ -50,12 +50,20 @@ Open Adafruit.IO and sign in using your account
 
 1.Create a new Dashboard where the temperature value are viewed.
 
+<img src="https://github.com/prekshaa8/tempsensorUsingAdafruit/blob/master/newDB.png" height="240" width="480">
+
 
 2.Navigate to Feed, and in ‘actions’ block create a new Feed 
 
 
+<img src="https://github.com/prekshaa8/tempsensorUsingAdafruit/blob/master/actions.png" height="240" width="480">
+
+<img src="https://github.com/prekshaa8/tempsensorUsingAdafruit/blob/master/newFEED.png" height="240" width="480">
+
 3.Add the feed name in the FEEDS Category ‘feed name’ of the Arduino code.
 
+
+<img src="https://github.com/prekshaa8/tempsensorUsingAdafruit/blob/master/arduinoFEED.png" height="240" width="480">
 
 4.Compile and Upload the code.
 5.Before that make sure that WiFi is turned on.
@@ -63,6 +71,7 @@ Open Adafruit.IO and sign in using your account
    Note: Make sure that the Baud rate is the same as the Serial. begin rate
 
 
+<img src="https://github.com/prekshaa8/tempsensorUsingAdafruit/blob/master/feeds.png" height="240" width="480">
 
 NOTE:
 Temperature monitoring can also be done using other IoT platforms like Thingspeak, Cayenne, firebase, asksensors etc.
